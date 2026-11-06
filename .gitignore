@@ -1,0 +1,23 @@
+# Local configuration and secrets
+config.h
+*.local
+.env
+
+# Arduino and editor/build artifacts
+.arduino/
+build/
+build-*/
+.pio/
+.vscode/
+
+# Operating-system metadata
+.DS_Store
+._*
+
+# Generated firmware and logs
+*.bin
+*.elf
+*.hex
+*.map
+*.log
+Argus_Monitor/data/
