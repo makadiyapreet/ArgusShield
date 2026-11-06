@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="docs/images/dashboard-nominal.png" alt="ARGUS dashboard in nominal state" width="100%">
 
 # ARGUS
 
